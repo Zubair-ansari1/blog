@@ -8,9 +8,6 @@ it has an authentication feature Sign-up and sign-in, users can do limited inter
 
 https://blog-ie3f.onrender.com
 
-## Authors
-
-- [@Zubair-ansari1](https://www.github.com/Zubair-ansari1)
 
 ## Environment Variables
 
@@ -35,3 +32,7 @@ To run this project, you will need to add the following environment variables to
 **Server:** Node, Express
 
 **Languages:** EJS, JavaScript, HTML
+
+## Author
+
+- [@Zubair-ansari1](https://www.github.com/Zubair-ansari1)
