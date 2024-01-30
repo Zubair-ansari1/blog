@@ -17,6 +17,18 @@ To run this project, you will need to add the following environment variables to
 
 `MONGO_URL`
 
+## Start with Project
+
+Install dependencies
+
+```
+  npm install
+```
+
+Start the App
+```
+  npm run start
+```
 
 ## Features
 
@@ -32,6 +44,10 @@ To run this project, you will need to add the following environment variables to
 **Server:** Node, Express
 
 **Languages:** EJS, JavaScript, HTML
+
+**Database:** MongoDB
+
+**Authentication:** JWT
 
 ## Author
 
